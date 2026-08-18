@@ -2,7 +2,7 @@ import java.net.HttpURLConnection
 import java.net.URI
 
 plugins {
-	id("fabric-loom") version "1.10-SNAPSHOT"
+	id("fabric-loom") version "1.17-SNAPSHOT"
 	`maven-publish`
 }
 
